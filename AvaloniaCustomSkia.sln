@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCustomSkia", "AvaloniaCustomSkia\AvaloniaCustomSkia\AvaloniaCustomSkia.csproj", "{28819FE1-8F48-43C7-B215-AB9826C250CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCustomSkia.Android", "AvaloniaCustomSkia\AvaloniaCustomSkia.Android\AvaloniaCustomSkia.Android.csproj", "{80AFD09B-67CF-4E1F-AC95-571023E4F491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCustomSkia.Desktop", "AvaloniaCustomSkia\AvaloniaCustomSkia.Desktop\AvaloniaCustomSkia.Desktop.csproj", "{0A5288F7-023F-459B-BFD3-E55601E2AAD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCustomSkia.iOS", "AvaloniaCustomSkia\AvaloniaCustomSkia.iOS\AvaloniaCustomSkia.iOS.csproj", "{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaCustomSkia.Browser", "AvaloniaCustomSkia\AvaloniaCustomSkia.Browser\AvaloniaCustomSkia.Browser.csproj", "{C39813BC-C9FD-42B2-B88B-C879A21971EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28819FE1-8F48-43C7-B215-AB9826C250CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28819FE1-8F48-43C7-B215-AB9826C250CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28819FE1-8F48-43C7-B215-AB9826C250CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28819FE1-8F48-43C7-B215-AB9826C250CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80AFD09B-67CF-4E1F-AC95-571023E4F491}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0A5288F7-023F-459B-BFD3-E55601E2AAD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5288F7-023F-459B-BFD3-E55601E2AAD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5288F7-023F-459B-BFD3-E55601E2AAD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5288F7-023F-459B-BFD3-E55601E2AAD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{427160E9-B5E4-45DB-A6B1-A165E7C1FB9B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C39813BC-C9FD-42B2-B88B-C879A21971EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C39813BC-C9FD-42B2-B88B-C879A21971EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C39813BC-C9FD-42B2-B88B-C879A21971EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C39813BC-C9FD-42B2-B88B-C879A21971EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
